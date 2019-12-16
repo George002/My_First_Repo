@@ -8,17 +8,17 @@ Check the Status of your working copy <br/>
    - **git status**<br/>
    
 Create your own copy branch <br/>
-   - **git bracnh** <your branch name> <br/>
+   - **git bracnh** your branch name <br/>
    
 Move to your branch <br/>
-   - **git checkout** <your branch name> <br/>
+   - **git checkout** your branch name <br/>
 
 Add a file to the project on your local machine and check the Status <br/>
    - **git add** ... //most used command is * which adds all the added files <br/>
    - git status - used after the above command will show you all the files you've added <br/>
 
 Commit the file to your local copy and check status <br/>
-  - **git commit -m** <your message / or commit number> - make is a suggestive message <br/>
+  - **git commit -m** your message / or commit number - make is a suggestive message <br/>
 
 Push the commit to the master repository <br/>
   - **git push** now your code will be sent to the master repo <br/>
