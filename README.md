@@ -6,6 +6,12 @@ Clone the Repository <br/>
 
 Check the Status of your working copy <br/>
    - **git status**<br/>
+   
+Create your own copy branch <br/>
+   - **git bracnh** <your branch name> <br/>
+   
+Move to your branch <br/>
+   - **git checkout** <your branch name> <br/>
 
 Add a file to the project on your local machine and check the Status <br/>
    - **git add** ... //most used command is * which adds all the added files <br/>
@@ -19,7 +25,7 @@ Push the commit to the master repository <br/>
   - git status - you should be up to date :D <br/>
 
 Get the latest version of the project and check status <br/>
-Git pull - will update your working copy with changes that are on master <br/>
+**Git pull** - will update your working copy with changes that are on master <br/>
    ### Before you commit your changes ...make sure your working copy is up to date ... so execute a git pull <br/>
 
 
